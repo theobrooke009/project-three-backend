@@ -6,4 +6,10 @@
 Tomas Here!
 
 Theo
+<<<<<<< HEAD
 Yo!
+=======
+
+Theo
+yoyo its kyle
+>>>>>>> development
