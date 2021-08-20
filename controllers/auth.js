@@ -1,7 +1,9 @@
-import { Unauthorized } from '../lib/errors.js'
 import User from '../models/users.js'
+import { Unauthorized } from '../lib/errors.js'
 import jwt from 'jsonwebtoken'
 import { secret } from '../config/environment.js'
+
+
 
 async function registerUser(req, res, next) {
   try {
@@ -12,24 +14,27 @@ async function registerUser(req, res, next) {
   }
 }
 
-async function loginUser(req, res, next) {
+async function userLogin(req, res, next) {
   try {
-    const userLogin = await User.findOne({ email: req.body.email })
-    if (!userLogin || userLogin.passwordValidate(req.body.password)) {
+    const userToLogin = await User.findOne({ email: req.body.email })
+    if (!userToLogin || !userToLogin.passwordValidate(req.body.password)) {
       throw new Unauthorized()
     }
-    const token = jwt.sign({ sub: userLogin._id }, secret, { expiresIn: '2 days' })
-    
+
+    const token = jwt.sign({ sub: userToLogin._id }, secret, { expiresIn: '2 days' })
     return res.status(202).json({
-      message: `welcome back ${userLogin.username}`,
+      message: `welcome back ${userToLogin.username}`,
       token: token,
+
     })
   } catch (err) {
     next(err)
   }
 }
 
+
+
 export default {
-  login: loginUser,
   register: registerUser,
+  login: userLogin,
 }

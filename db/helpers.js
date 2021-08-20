@@ -1,5 +1,5 @@
 import mongoose from 'mongoose'
-import { dbURI } from '../config/environment'
+import { dbURI } from '../config/environment.js'
 
 export function connectDB() {
   const opts = {
@@ -11,7 +11,7 @@ export function connectDB() {
 }
 
 export function truncateDB() {
-  if (mongoose.connection.readyState !==0) {
+  if (mongoose.connection.readyState !== 0) {
     const { collections } = mongoose.connection
 
     const promises = Object.keys(collections).map(collection => {
