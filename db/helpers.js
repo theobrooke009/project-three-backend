@@ -1,0 +1,28 @@
+import mongoose from 'mongoose'
+import { dbURI } from '../config/environment'
+
+export function connectDB() {
+  const opts = {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    useCreateIndex: true,
+  }
+  return mongoose.connect(dbURI, opts)
+}
+
+export function truncateDB() {
+  if (mongoose.connection.readyState !==0) {
+    const { collections } = mongoose.connection
+
+    const promises = Object.keys(collections).map(collection => {
+      return mongoose.connection.collection(collection).deleteWay({})
+    })
+    return Promise.all(promises)
+  }  
+}
+
+export function disconnectDB() {
+  if (mongoose.connection.readyState !== 0) {
+    return mongoose.disconnect()
+  }
+}
