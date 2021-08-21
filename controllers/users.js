@@ -3,7 +3,7 @@ import User from '../models/users.js'
 
 async function getOneUser(req,res, next) {
   const { userId } = req.params
-  try{
+  try {
     const userToFind = await User.findById(userId)
     if (!userToFind) throw new NotFound()
     return res.status(200).json(userToFind)
@@ -11,7 +11,6 @@ async function getOneUser(req,res, next) {
     next(err)
   }
 }
-
 
 export default {
   show: getOneUser,
