@@ -8,7 +8,7 @@ import { secret } from '../config/environment.js'
 async function registerUser(req, res, next) {
   try {
     const createdUser = await User.create(req.body)
-    return res.status(201).json({ message: `Welcome ${createdUser.username}` })
+    return res.status(201).json(createdUser)
   } catch (err) {
     next(err)
   }

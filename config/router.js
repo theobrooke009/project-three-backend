@@ -1,6 +1,7 @@
 import express from 'express'
 import auth from '../controllers/auth.js'
 import allMovies from '../controllers/movies.js'
+import user from '../controllers/users.js'
 
 const router = express.Router()
 
@@ -15,6 +16,12 @@ router.route('/register')
 
 router.route('/login')
   .post(auth.login)
+
+router.route('/user/:userId')
+  .get(user.show)
+
+router.route('/marathon')
+  .get(allMovies.index)
 
   
 export default router
