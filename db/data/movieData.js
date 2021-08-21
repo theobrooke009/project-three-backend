@@ -199,7 +199,7 @@ export default [
   },
   {
     'title':	'Inception',
-    'year':	'2010',
+    'year':	2010,
     'rated':	'PG-13',
     'released':	'16 Jul 2010',
     'runtime':	148,
