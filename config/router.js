@@ -6,10 +6,10 @@ import user from '../controllers/users.js'
 
 const router = express.Router()
 
-router.route('/movies')
+router.route('/api/movies')
   .get(allMovies.index)
 
-router.route('/movies/:movieId')
+router.route('/api/movies/:movieId')
   .get(allMovies.show)
 
 router.route('/register')
