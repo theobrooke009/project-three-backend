@@ -6,7 +6,7 @@ import user from '../controllers/users.js'
 
 const router = express.Router()
 
-router.route('/api/movies')
+router.route('/movies')
   .get(allMovies.index)
 
 router.route('/movies/:movieId')

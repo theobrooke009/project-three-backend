@@ -12,6 +12,7 @@
   "type": "module",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
+    "db-seed": "^1.2.0",
     "eslint": "^7.32.0"
   },
   "dependencies": {

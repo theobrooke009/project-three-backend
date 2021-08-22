@@ -15,7 +15,7 @@ export function truncateDB() {
     const { collections } = mongoose.connection
 
     const promises = Object.keys(collections).map(collection => {
-      return mongoose.connection.collection(collection).deleteWay({})
+      return mongoose.connection.collection(collection).deleteMany({})
     })
     return Promise.all(promises)
   }  
