@@ -6,6 +6,9 @@ import user from '../controllers/users.js'
 
 const router = express.Router()
 
+
+//routes removed here 
+
 router.route('/movies')
   .get(allMovies.index)
 
