@@ -1022,7 +1022,7 @@ export default [
     language:	'English',
     country:	'United Kingdom, United States',
     awards:	'4 wins & 8 nominations',
-    poster:	'https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg'
+    poster:	'https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg',
     metascore:	66,
     imdbRating:	8.4,	
     },
