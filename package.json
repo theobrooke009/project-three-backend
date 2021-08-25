@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "npx nodemon index.js",
-    "seed": "node db/seed.js"
+    "seed": "node db/seed.js",
+    "tomas-dev": "npx nodemon --experimental-modules index.js",
+    "tomas-seed": "npx nodemon --experimental-modules db/seed.js"
   },
   "author": "",
   "license": "ISC",
