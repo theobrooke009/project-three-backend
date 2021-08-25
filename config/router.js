@@ -17,10 +17,6 @@ router.route('/movies')
   .get(allMovies.index)
 
 router.route('/movies/:movieId')
-<<<<<<< HEAD
-  // .get(secureRoute, allMovies.show)
-=======
->>>>>>> development
   .get(allMovies.show)
 
 router.route('/register')
@@ -30,14 +26,6 @@ router.route('/login')
   .post(auth.login)
 
 router.route('/user/:userId')
-<<<<<<< HEAD
-  // .get(secureRoute, user.show)
-  .get(user.show)
-
-router.route('/marathon')
-  // .get(secureRoute, allMovies.index)
-  .get(allMovies.index)
-=======
   .get(user.show)
 
 router.route('/marathon')
@@ -45,6 +33,5 @@ router.route('/marathon')
 
 router.route('/users')
   .get(users.index)
->>>>>>> development
 
 export default router
