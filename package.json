@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "dev": "npx nodemon index.js",
-    "seed": "node db/seed.js"
+    "seed": "node db/seed.js",
+    "tomas-dev": "npx nodemon --experimental-modules index.js",
+    "tomas-seed": "npx nodemon --experimental-modules db/seed.js"
   },
   "author": "",
   "license": "ISC",
@@ -19,6 +21,7 @@
     "bcrypt": "^5.0.1",
     "dbc": "^3.0.0",
     "express": "^4.17.1",
+    "faker": "^5.5.3",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.13.7",
     "mongoose-unique-validator": "^2.0.3",
