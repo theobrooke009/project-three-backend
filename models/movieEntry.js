@@ -10,13 +10,17 @@ const commentSchema = new mongoose.Schema({
 
 const movieSchema = new mongoose.Schema({
   title: { type: String, required: true, unique: true, trim: true },
-  decade: { type: String },
+  year: { type: String, required: true },
+  rated: { type: String, required: true },
+  released: { type: String, required: true },
+  actors: { type: String, required: true },
   runtime: { type: Number, required: true },
   genre: { type: String, required: true },
   director: { type: String, required: true },
+  writer: { type: String, required: true },
   plot: { type: String, maxlength: 500, trim: true },
   poster: { type: String, required: true },
-  rating: { type: Number, required: false },
+  imdbrating: { type: Number, required: false },
   tagline: { type: String, maxlength: 200 },
   comments: [commentSchema],
 })

@@ -15,7 +15,7 @@ export default [
     awards:	'Won 3 Oscars. 31 wins & 30 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	100,
-    imdbRating:	9.2,
+    imdbrating:	9.2,
   },
   { 	
     title:	'The Shawshank Redemption',
@@ -33,7 +33,7 @@ export default [
     awards:	'Nominated for 7 Oscars. 21 wins & 43 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg',
     metascore:	80,
-    imdbRating:	9.3,
+    imdbrating:	9.3,
   },
   {
     title:	'The Dark Knight',
@@ -51,7 +51,7 @@ export default [
     awards:	'Won 2 Oscars. 159 wins & 163 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg',
     metascore:	84,
-    imdbRating:	9.0,
+    imdbrating:	9.0,
   },
   {
     title:	'The Godfather: Part II',
@@ -69,7 +69,7 @@ export default [
     awards:	'Won 6 Oscars. 17 wins & 20 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	90,
-    imdbRating:	9.0,
+    imdbrating:	9.0,
   },
   {
     title:	'Schindlers List',
@@ -87,7 +87,7 @@ export default [
     awards:	'Won 7 Oscars. 91 wins & 49 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg',
     metascore:	94,
-    imdbRating:	8.9,
+    imdbrating:	8.9,
   },
   {
     title:	'12 Angry Men',
@@ -105,7 +105,7 @@ export default [
     awards:	'Nominated for 3 Oscars. 17 wins & 13 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg',
     metascore:	96,
-    imdbRating:	9.0,
+    imdbrating:	9.0,
   },
   {
     title:	'Pulp Fiction',
@@ -123,7 +123,7 @@ export default [
     awards:	'Won 1 Oscar. 70 wins & 75 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	94,
-    imdbRating:	8.9,
+    imdbrating:	8.9,
   },
   {
     title:	'The Lord of the Rings: The Return of the King',
@@ -141,7 +141,7 @@ export default [
     awards:	'Won 11 Oscars. 209 wins & 124 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	94,
-    imdbRating:	8.9,
+    imdbrating:	8.9,
   },
   {
     title:	'The Lord of the Rings: The Fellowship of the Ring',
@@ -159,7 +159,7 @@ export default [
     awards:	'Won 4 Oscars. 120 wins & 126 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg',
     metascore:	92,
-    imdbRating:	8.8,
+    imdbrating:	8.8,
   },
   {
     title:	'Forrest Gump',
@@ -177,7 +177,7 @@ export default [
     awards:	'Won 6 Oscars. 50 wins & 75 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg',
     metascore:	82,
-    imdbRating:	8.8,
+    imdbrating:	8.8,
   },
   {
     title:	'Inception',
@@ -195,7 +195,7 @@ export default [
     awards:	'Won 4 Oscars. 157 wins & 220 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg',
     metascore:	74,
-    imdbRating:	8.8,
+    imdbrating:	8.8,
   },
   {
     title:	'The Matrix',
@@ -213,7 +213,7 @@ export default [
     awards:	'Won 4 Oscars. 42 wins & 51 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX30,0.jpg',
     metascore:	73,
-    imdbRating:	8.7,
+    imdbrating:	8.7,
   },
   {
     title:	'Star Wars: Episode V - The Empire Strikes Back',
@@ -231,7 +231,7 @@ export default [
     awards:	'Won 2 Oscars. 25 wins & 20 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	82,
-    imdbRating:	8.7,
+    imdbrating:	8.7,
   },
   {
     title:	'One Flew Over the Cuckoos Nest',
@@ -249,7 +249,7 @@ export default [
     awards:	'Won 5 Oscars. 37 wins & 15 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg',
     metascore:	84,
-    imdbRating:	8.7,
+    imdbrating:	8.7,
   },
   {
     title:	'Goodfellas',
@@ -267,7 +267,7 @@ export default [
     awards:	'Won 1 Oscar. 44 wins & 38 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	90,
-    imdbRating:	8.7,
+    imdbrating:	8.7,
   },
   {
     title:	'Seven Pounds',
@@ -285,7 +285,7 @@ export default [
     awards:	'4 wins & 7 nominations',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTU0NzY0MTY5OF5BMl5BanBnXkFtZTcwODY3MDEwMg@@._V1_SX300.jpg',
     metascore:	36,
-    imdbRating:	7.6,
+    imdbrating:	7.6,
   },
   {
     title:	'Seven Samurai: Origins and Influences',
@@ -303,7 +303,7 @@ export default [
     awards:	'N/A',
     poster:	'https://m.media-amazon.com/images/M/MV5BNGE1NzFmMWEtNTYwNi00NTU2LThlYmUtNDI5MzQwODc3MGU0XkEyXkFqcGdeQXVyMjA5NjIxNDU@._V1_SX300.jpg',
     metascore:	75,
-    imdbRating:	7.5,
+    imdbrating:	7.5,
   },
   {
     title:	'City of God',
@@ -321,7 +321,7 @@ export default [
     awards:	'N/A',
     poster:	'https://m.media-amazon.com/images/M/MV5BNjVlYzFhZWUtYzIxMi00NTVlLTgwZTMtOTU4MWI4MDI3NDFjXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg',
     metascore:	71,
-    imdbRating:	7.1,
+    imdbrating:	7.1,
   },
   {
     title:	'The Silence of the Lambs',
@@ -339,7 +339,7 @@ export default [
     awards:	'Won 5 Oscars. 69 wins & 51 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg',
     metascore:	85,
-    imdbRating:	8.6,
+    imdbrating:	8.6,
   },
   {
     title:	'Its a Wonderful Life',
@@ -357,7 +357,7 @@ export default [
     awards:	'Nominated for 5 Oscars. 6 wins & 6 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SX300.jpg',
     metascore:	89,
-    imdbRating:	8.6,
+    imdbrating:	8.6,
   },
   {	
     title:	'Life Is Beautiful',
@@ -375,7 +375,7 @@ export default [
     awards:	'1 win & 2 nominations',
     poster:	'https://m.media-amazon.com/images/M/MV5BNGE0MWU2YmQtMzI0NS00OTRjLWE0MzktNWJkMjY2YWNiMjg0XkEyXkFqcGdeQXVyMzY4MzU5NDE@._V1_SX300.jpg',
     metascore:	71,
-    imdbRating:	6.4,
+    imdbrating:	6.4,
   },
   {
     title:	'Saving Private Ryan',
@@ -393,7 +393,7 @@ export default [
     awards:	'Won 5 Oscars. 79 wins & 75 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg',
     metascore:	91,
-    imdbRating:	8.6,
+    imdbrating:	8.6,
   },
   {
     title:	'Star Wars: Episode IV: A New Hope - Deleted Scenes',
@@ -411,7 +411,7 @@ export default [
     awards:	'N/A',
     poster:	'https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	75,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   {
     title:	'Interstellar',
@@ -429,7 +429,7 @@ export default [
     awards:	'Won 1 Oscar. 44 wins & 148 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg',
     metascore:	74,
-    imdbRating:	8.6,
+    imdbrating:	8.6,
   },
   {
     title:	'Spirited Away',
@@ -447,7 +447,7 @@ export default [
     awards:	'N/A',
     poster:	'https://m.media-amazon.com/images/M/MV5BYjE5ZTc2OWItNTE4Ni00ODA0LWE4ZjYtODIzZThmZDNkZWNlXkEyXkFqcGdeQXVyNzA1NDAzMDE@._V1_SX300.jpg',
     metascore:	75,
-    imdbRating:	7.5,
+    imdbrating:	7.5,
   },
   {
     title:	'Parasite',
@@ -465,7 +465,7 @@ export default [
     awards:	'N/A',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTFlZDVjMDMtODkwNS00MTM3LWJiMzQtY2IxN2JiNWZjMWUxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg',
     metascore:	75,
-    imdbRating:	4.0,
+    imdbrating:	4.0,
   },
   {
     title:	'The Green Mile',
@@ -483,7 +483,7 @@ export default [
     awards:	'Nominated for 4 Oscars. 15 wins & 37 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SX300.jpg',
     metascore:	61,
-    imdbRating:	8.6,
+    imdbrating:	8.6,
   },
   {	
     title:	'Harakiri',
@@ -501,7 +501,7 @@ export default [
     awards:	'N/A',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTc4NDg2MjM2N15BMl5BanBnXkFtZTgwMzUyMTY0MjE@._V1_SX300.jpg',
     metascore:	75,
-    imdbRating:	5.6,
+    imdbrating:	5.6,
   },
   {	
     title:	'Leon',
@@ -519,7 +519,7 @@ export default [
     awards:	'N/A',
     poster:	'https://m.media-amazon.com/images/M/MV5BZmJlNjU5OGYtNTA4Yy00NTRkLWJhNGItMDhhZjRjODZiYjEzXkEyXkFqcGdeQXVyODg3MjgzMzM@._V1_SX300.jpg',
     metascore:	75,
-    imdbRating:	6.2,
+    imdbrating:	6.2,
   },
   {
     title:	'The Usual Suspects',
@@ -537,7 +537,7 @@ export default [
     awards:	'Won 2 Oscars. 37 wins & 17 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg',
     metascore:	77,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   {	
     title:	'The Pianist',
@@ -555,7 +555,7 @@ export default [
     awards:	'Won 3 Oscars. 57 wins & 74 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg',
     metascore:	85,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   {
     title:	'Back to the Future',
@@ -573,7 +573,7 @@ export default [
     awards:	'Won 1 Oscar. 22 wins & 25 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg',
     metascore:	87,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   {	
     title:	'Terminator 2: Judgment Day',
@@ -591,7 +591,7 @@ export default [
     awards:	'Won 4 Oscars. 36 wins & 33 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg',
     metascore:	75,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   {
     title:	'Modern Times',
@@ -609,7 +609,7 @@ export default [
     awards:	'4 wins & 1 nomination',
     poster:	'https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@.,_V1_SX300.jpg',
     metascore:	96,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   {
     title:	'Psycho',
@@ -627,7 +627,7 @@ export default [
     awards:	'Nominated for 4 Oscars. 7 wins & 14 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	97,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   {
     title:	'American History X',
@@ -645,7 +645,7 @@ export default [
     awards:	'Nominated for 1 Oscar. 4 wins & 15 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg',
     metascore:	62,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   {
     title:	'The Lion King',
@@ -663,7 +663,7 @@ export default [
     awards:	'Won 2 Oscars. 39 wins & 35 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX300.jpg',
     metascore:	88,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   {
     title:	'Grave of the Fireflies',
@@ -681,7 +681,7 @@ export default [
     awards:	'N/A',
     poster:	'https://m.media-amazon.com/images/M/MV5BMjk3ZDdhMTUtZWRlYS00MjQyLWIzNDUtZjYwNmZmYWNiMWFlXkEyXkFqcGdeQXVyNDY3MTQwMzk@._V1_SX300.jpg',
     metascore:	75,
-    imdbRating:	7.6,
+    imdbrating:	7.6,
   },
   {
     title:	'City Lights',
@@ -699,7 +699,7 @@ export default [
     awards:	'3 wins',
     poster:	'https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	99,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   {
     title:	'Whiplash',
@@ -717,7 +717,7 @@ export default [
     awards:	'Won 3 Oscars. 97 wins & 145 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg',
     metascore:	88,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   {
     title:	'Gladiator',
@@ -735,7 +735,7 @@ export default [
     awards:	'Won 5 Oscars. 59 wins & 106 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg',
     metascore:	67,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   {
     title:	'Untouchable',
@@ -753,7 +753,7 @@ export default [
     awards:	'1 win & 6 nominations',
     poster:	'https://m.media-amazon.com/images/M/MV5BNmRlYWM3NmEtOTNkYy00OTk5LWFkNTktZDBjMzJjMzI1MWQ0XkEyXkFqcGdeQXVyNTEyNjg4MzI@._V1_SX300.jpg',
     metascore:	71,
-    imdbRating:	6.7,
+    imdbrating:	6.7,
   },
   {
     title:	'The Departed',
@@ -771,7 +771,7 @@ export default [
     awards:	'Won 4 Oscars. 97 wins & 141 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg',
     metascore:	85,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   {
     title:	'Casablanca',
@@ -789,7 +789,7 @@ export default [
     awards:	'Won 3 Oscars. 10 wins & 9 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg',
     metascore:	100,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   {
     title:	'The Prestige',
@@ -807,7 +807,7 @@ export default [
     awards:	'Nominated for 2 Oscars. 6 wins & 45 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SX300.jpg',
     metascore:	66,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   {
     title:	'Rear Window',
@@ -825,7 +825,7 @@ export default [
     awards:	'Nominated for 4 Oscars. 6 wins & 13 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg',
     metascore:	100,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   
   {
@@ -844,7 +844,7 @@ export default [
     awards:	'Nominated for 2 Oscars. 57 wins & 59 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg',
     metascore:	80,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {	
     title:	'Apocalypse Now',
@@ -862,7 +862,7 @@ export default [
     awards:	'Won 2 Oscars. 21 wins & 32 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	94,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {
     title:	'The Great Dictator',
@@ -880,7 +880,7 @@ export default [
     awards:	'Nominated for 5 Oscars. 6 wins & 6 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg',
     metascore:	75,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {	
     title:	'Raiders of the Lost Ark',
@@ -898,7 +898,7 @@ export default [
     awards:	'Won 5 Oscars. 37 wins & 24 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SX300.jpg',
     metascore:	85,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {
     title:	'Django Unchained',
@@ -916,7 +916,7 @@ export default [
     awards:	'Won 2 Oscars. 58 wins & 158 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg',
     metascore:	81,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {
     title:	'Sunset Blvd.',
@@ -934,7 +934,7 @@ export default [
     awards:	'Won 3 Oscars. 18 wins & 19 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_SX300.jpg',
     metascore:	75,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {
     title:	'Paths of Glory',
@@ -952,7 +952,7 @@ export default [
     awards:	'7 wins & 4 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNjViMmRkOTEtM2ViOS00ODg0LWJhYWEtNTBlOGQxNDczOGY3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg',
     metascore:	90,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   //---------------------TOMAS DATA BELOW-------------//
   {
@@ -971,7 +971,7 @@ export default [
     awards:	'4 wins & 8 nominations',
     poster:	'https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg',
     metascore:	66,
-    imdbRating:	8.4,	
+    imdbrating:	8.4,	
   },
   {
     title:	'WALL·E',
@@ -989,7 +989,7 @@ export default [
     awards:	'Won 1 Oscar. 93 wins & 95 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX300.jpg',
     metascore:	95,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {
     title:	'Witness for the Prosecution',
@@ -1007,7 +1007,7 @@ export default [
     awards:	'Nominated for 6 Oscars. 4 wins & 16 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg',
     metascore:	70,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {
     title:	'Avengers: Infinity War',
@@ -1025,7 +1025,7 @@ export default [
     awards:	'Nominated for 1 Oscar. 46 wins & 78 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg',
     metascore:	68,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {
     title:	'Spider-Man: Into the Spider-Verse',
@@ -1043,7 +1043,7 @@ export default [
     awards:	'Won 1 Oscar. 81 wins & 58 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg',
     metascore:	87,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {
     title:	'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb',
@@ -1061,7 +1061,7 @@ export default [
     awards:	'Nominated for 4 Oscars. 14 wins & 11 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	97,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {
     title:	'Oldboy',
@@ -1079,7 +1079,7 @@ export default [
     awards:	'4 nominations',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTk5NTEwMzI5OV5BMl5BanBnXkFtZTgwMDQ4ODUwMDE@._V1_SX300.jpg',
     metascore:	49,
-    imdbRating:	5.7,
+    imdbrating:	5.7,
   },
   {
     title:	'Joker',
@@ -1097,7 +1097,7 @@ export default [
     awards:	'Won 2 Oscars. 118 wins & 239 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg',
     metascore:	59,
-    imdbRating:	8.4,	
+    imdbrating:	8.4,	
   },
   {
     title:	'Your Name',
@@ -1115,7 +1115,7 @@ export default [
     awards:	'N/A',
     poster:	'https://m.media-amazon.com/images/M/MV5BMGY0ZjY4ZGItNmY1Ny00YzAwLWI0Y2EtODQwZTcwMDU0NzgyXkEyXkFqcGdeQXVyMTgwOTE5NDk@._V1_SX300.jpg',
     metascore:	70,
-    imdbRating:	8.9,
+    imdbrating:	8.9,
   },
   {
     title:	'Princess Mononoke: Making of a Masterpiece',
@@ -1133,7 +1133,7 @@ export default [
     awards:	'N/A',
     poster:	'N/A',
     metascore:	70,
-    imdbRating:	8.0,
+    imdbrating:	8.0,
   },
   {
     title:	'The Dark Knight Rises',
@@ -1151,7 +1151,7 @@ export default [
     awards:	'38 wins & 103 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg',
     metascore:	78,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {
     title:	'Once Upon a Time in America',
@@ -1169,7 +1169,7 @@ export default [
     awards:	'12 wins & 12 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg',
     metascore:	70,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {
     title:	'Coco',
@@ -1187,7 +1187,7 @@ export default [
     awards:	'Won 2 Oscars. 111 wins & 41 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg',
     metascore:	81,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {
     title:	'Aliens',
@@ -1205,7 +1205,7 @@ export default [
     awards:	'Won 2 Oscars. 20 wins & 23 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	84,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Capernaum Monastery of the Twelve Apostles',
@@ -1223,7 +1223,7 @@ export default [
     awards:	'N/A',
     poster:	'https://m.media-amazon.com/images/M/MV5BZGE0YjkxNTUtNmU1YS00OThhLTkwZjctMmVlOGQ4MWMwNWNlXkEyXkFqcGdeQXVyODY5Nzc2NTQ@._V1_SX300.jpg',
     metascore:	70,
-    imdbRating:	7.0,
+    imdbrating:	7.0,
   },
   {
     title:	'Hamilton',
@@ -1241,7 +1241,7 @@ export default [
     awards:	'Nominated for 10 Primetime Emmys. 10 wins & 40 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_SX300.jpg',
     metascore:	90,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {
     title:	'Avengers: Endgame',
@@ -1259,7 +1259,7 @@ export default [
     awards:	'Nominated for 1 Oscar. 70 wins & 122 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg',
     metascore:	78,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {
     title:	'Das Boot',
@@ -1277,7 +1277,7 @@ export default [
     awards:	'Nominated for 6 Oscars. 13 wins & 11 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BOGZhZDIzNWMtNjkxMS00MDQ1LThkMTYtZWQzYWU3MWMxMGU5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg',
     metascore:	86,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'American Beauty',
@@ -1295,7 +1295,7 @@ export default [
     awards:	'Won 5 Oscars. 111 wins & 102 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg',
     metascore:	84,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'High and Low',
@@ -1313,7 +1313,7 @@ export default [
     awards:	'N/A',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTk3ZTIwYzMtZjc5OC00OGJmLTliNWUtMjBmMGRkMzY1ZDNkXkEyXkFqcGdeQXVyMzI1NjE1Nzk@._V1_SX300.jpg',
     metascore:	70,
-    imdbRating:	7.0,
+    imdbrating:	7.0,
   },
   {
     title:	'3 Idiots',
@@ -1331,7 +1331,7 @@ export default [
     awards:	'64 wins & 25 nominations',
     poster:	'https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg',
     metascore:	67,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {
     title:	'Toy Story',
@@ -1349,7 +1349,7 @@ export default [
     awards:	'Won 1 Oscar. 27 wins & 23 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg',
     metascore:	95,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Braveheart',
@@ -1367,7 +1367,7 @@ export default [
     awards:	'Won 5 Oscars. 33 wins & 34 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	68,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Amadeus',
@@ -1385,7 +1385,7 @@ export default [
     awards:	'Won 8 Oscars. 43 wins & 15 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg',
     metascore:	88,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Good Will Hunting',
@@ -1403,7 +1403,7 @@ export default [
     awards:	'Won 2 Oscars. 24 wins & 61 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg',
     metascore:	70,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Inglourious Basterds',
@@ -1421,7 +1421,7 @@ export default [
     awards:	'Won 1 Oscar. 133 wins & 172 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg',
     metascore:	69,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'2001: A Space Odyssey',
@@ -1439,7 +1439,7 @@ export default [
     awards:	'Won 1 Oscar. 16 wins & 11 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	84,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Star Wars: Return of the Jedi - The Original Radio Drama',
@@ -1457,7 +1457,7 @@ export default [
     awards:	'N/A',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTBhNDhiOWYtNTc2NC00ZmRiLWI5ZGQtNDhmNTkxOGYyZWNhXkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_SX300.jpg',
     metascore:	70,
-    imdbRating:	8.0,
+    imdbrating:	8.0,
   },
   {
     title:	'Reservoir Dogs',
@@ -1475,7 +1475,7 @@ export default [
     awards:	'12 wins & 23 nominations',
     poster:	'https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg',
     metascore:	79,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Pather Panchali',
@@ -1493,7 +1493,7 @@ export default [
     awards:	'11 wins & 2 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNDE5YmMxYjEtZjNjNC00NjM2LWE2ZjctOTkyNGMxODRiMGNiXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX300.jpg',
     metascore:	70,
-    imdbRating:	8.5,
+    imdbrating:	8.5,
   },
   {
     title:	'Citizen Kane',
@@ -1511,7 +1511,7 @@ export default [
     awards:	'Won 1 Oscar. 11 wins & 13 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	100,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Vertigo',
@@ -1529,7 +1529,7 @@ export default [
     awards:	'Nominated for 2 Oscars. 8 wins & 7 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg',
     metascore:	100,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'The Hunt',
@@ -1547,7 +1547,7 @@ export default [
     awards:	'1 win & 4 nominations',
     poster:	'https://m.media-amazon.com/images/M/MV5BNjg4MjRhZjgtNTIxOS00MmRjLTg4NTEtNjBkNzkwZjAxMjMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg',
     metascore:	50,
-    imdbRating:	6.5,
+    imdbrating:	6.5,
   },
   {
     title:	'Come and See',
@@ -1565,7 +1565,7 @@ export default [
     awards:	'1 nomination',
     poster:	'https://m.media-amazon.com/images/M/MV5BOGM3ZDlkYjEtNzVjYi00ZGU2LWJmY2YtYjhjYWZmNDE5NDMyXkEyXkFqcGdeQXVyMjMxNTgwMDA@._V1_SX300.jpg',
     metascore:	70,
-    imdbRating:	8.8,
+    imdbrating:	8.8,
   },
   {
     title:	'Singing in the Rain',
@@ -1583,7 +1583,7 @@ export default [
     awards:	'Nominated for 2 Oscars. 7 wins & 9 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg',
     metascore:	99,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Requiem for a Dream',
@@ -1601,7 +1601,7 @@ export default [
     awards:	'Nominated for 1 Oscar. 37 wins & 70 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg',
     metascore:	68,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Eternal Sunshine of the Spotless Mind',
@@ -1619,7 +1619,7 @@ export default [
     awards:	'Won 1 Oscar. 73 wins & 111 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg',
     metascore:	89,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'North by Northwest',
@@ -1637,7 +1637,7 @@ export default [
     awards:	'Nominated for 3 Oscars. 8 wins & 10 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg',
     metascore:	98,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Bicycle',
@@ -1655,7 +1655,7 @@ export default [
     awards:	'N/A',
     poster:	'https://m.media-amazon.com/images/M/MV5BMjE4NDAyMDM4Ml5BMl5BanBnXkFtZTgwOTg5OTc3NTE@._V1_SX300.jpg',
     metascore:	70,
-    imdbRating:	7.3,
+    imdbrating:	7.3,
   },
   {
     title:	'Ikiru',
@@ -1673,7 +1673,7 @@ export default [
     awards:	'5 wins & 2 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BZmM0NGY3Y2MtMTA1YS00YmQzLTk2YTctYWFhMDkzMDRjZWQzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg',
     metascore:	70,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'The Kid',
@@ -1691,7 +1691,7 @@ export default [
     awards:	'2 wins',
     poster:	'https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg',
     metascore:	70,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Lawrence of Arabia',
@@ -1709,7 +1709,7 @@ export default [
     awards:	'Won 7 Oscars. 31 wins & 14 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg',
     metascore:	100,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Dangal',
@@ -1727,7 +1727,7 @@ export default [
     awards:	'23 wins & 6 nominations',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SX300.jpg',
     metascore:	70,
-    imdbRating:	8.4,
+    imdbrating:	8.4,
   },
   {
     title:	'Full Metal Jacket',
@@ -1745,7 +1745,7 @@ export default [
     awards:	'Nominated for 1 Oscar. 8 wins & 15 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	76,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'A Clockwork Orange',
@@ -1763,7 +1763,7 @@ export default [
     awards:	'Nominated for 4 Oscars. 12 wins & 24 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg',
     metascore:	77,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'The Father',
@@ -1781,7 +1781,7 @@ export default [
     awards:	'Won 2 Oscars. 26 wins & 134 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg',
     metascore:	88,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Taxi Driver',
@@ -1799,7 +1799,7 @@ export default [
     awards:	'Nominated for 4 Oscars. 22 wins & 20 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	94,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Metropolis',
@@ -1817,7 +1817,7 @@ export default [
     awards:	'6 wins & 6 nominations',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg',
     metascore:	98,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {	
     title:	'Double Indemnity',
@@ -1835,7 +1835,7 @@ export default [
     awards:	'Nominated for 7 Oscars. 2 wins & 9 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg',
     metascore:	95,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {	
     title:	'The Apartment',
@@ -1853,7 +1853,7 @@ export default [
     awards:	'Won 5 Oscars. 24 wins & 8 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg',
     metascore:	94,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {	
     title:	'The Sting',
@@ -1871,7 +1871,7 @@ export default [
     awards:	'Won 7 Oscars. 18 wins & 6 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg',
     metascore:	83,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Incendies',
@@ -1889,7 +1889,7 @@ export default [
     awards:	'Nominated for 1 Oscar. 39 wins & 17 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg',
     metascore:	80,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'1917',
@@ -1907,7 +1907,7 @@ export default [
     awards:	'Won 3 Oscars. 134 wins & 199 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_SX300.jpg',
     metascore:	78,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'A Separation',
@@ -1925,7 +1925,7 @@ export default [
     awards:	'6 wins & 2 nominations',
     poster:	'https://m.media-amazon.com/images/M/MV5BMjcwMzY5NGMtZjYxNi00Y2NmLThjZTEtNDhiMjg4MTZiMTM2XkEyXkFqcGdeQXVyOTgxMTEwNDA@._V1_SX300.jpg',
     metascore:	70,
-    imdbRating:	9.6,
+    imdbrating:	9.6,
   },
   {
     title:	'Scarface',
@@ -1943,7 +1943,7 @@ export default [
     awards:	'8 nominations',
     poster:	'https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg',
     metascore:	65,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {	
     title:	'Snatch',
@@ -1961,7 +1961,7 @@ export default [
     awards:	'4 wins & 7 nominations',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg',
     metascore:	55,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {		
     title:	'Restoration Italian Style: For a Few Dollars More',
@@ -1979,7 +1979,7 @@ export default [
     awards:	'N/A',
     poster:	'N/A',
     metascore:	70,
-    imdbRating:	5.3,
+    imdbrating:	5.3,
   },
   {
     title:	'To Kill a Mockingbird',
@@ -1997,7 +1997,7 @@ export default [
     awards:	'Won 3 Oscars. 14 wins & 16 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore:	88,
-    imdbRating:	8.3,
+    imdbrating:	8.3,
   },
   {
     title:	'Indiana Jones and the Last Crusade',
@@ -2015,7 +2015,7 @@ export default [
     awards:	'Won 1 Oscar. 8 wins & 22 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg',
     metascore:	65,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {
     title:	'Up',
@@ -2033,7 +2033,7 @@ export default [
     awards:	'Won 2 Oscars. 79 wins & 87 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_SX300.jpg',
     metascore:	88,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {
     title:	'Heat',
@@ -2051,7 +2051,7 @@ export default [
     awards:	'14 nominations',
     poster:	'https://m.media-amazon.com/images/M/MV5BNGMwNzUwNjYtZWM5NS00YzMyLWI4NjAtNjM0ZDBiMzE1YWExXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg',
     metascore:	76,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {
     title:	'L.A. Confidential',
@@ -2069,7 +2069,7 @@ export default [
     awards:	'Won 2 Oscars. 91 wins & 85 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg',
     metascore:	90,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {		
     title:	'Nihiki no yojimbo',
@@ -2087,7 +2087,7 @@ export default [
     awards:	'N/A',
     poster:	'N/A',
     metascore:	70,
-    imdbRating:	7.5,
+    imdbrating:	7.5,
   },
   {
     title:	'Rashomon;',
@@ -2105,7 +2105,7 @@ export default [
     awards:	'N/A',
     poster:	'N/A',
     metascore:	70,
-    imdbRating:	7.0,
+    imdbrating:	7.0,
   },
   
   {
@@ -2124,7 +2124,7 @@ export default [
     awards:	'Won 1 Oscar. 30 wins & 23 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNTEyNjg0MDM4OF5BMl5BanBnXkFtZTgwODI0NjUxODE@._V1_SX300.jpg',
     metascore:	96,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {
     title:	'Green Book',
@@ -2142,7 +2142,7 @@ export default [
     awards:	'Won 3 Oscars. 58 wins & 123 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_SX300.jpg',
     metascore:	69,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {		
     title:	'Downfall',
@@ -2160,7 +2160,7 @@ export default [
     awards:	'N/A',
     poster:	'https://m.media-amazon.com/images/M/MV5BMjIxMjI0Njc3M15BMl5BanBnXkFtZTgwOTM0MTgwMzE@._V1_SX300.jpg',
     metascore:	70,
-    imdbRating:	6.2,
+    imdbrating:	6.2,
   },
   {
     title:	'Monty Python and the Holy Grail',
@@ -2178,7 +2178,7 @@ export default [
     awards:	'3 wins & 3 nominations',
     poster:	'https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg',
     metascore:	91,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {
     title:	'Some Like It Hot',
@@ -2196,7 +2196,7 @@ export default [
     awards:	'Won 1 Oscar. 15 wins & 15 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg',
     metascore:	98,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {
     title:	'All About Eve',
@@ -2214,7 +2214,7 @@ export default [
     awards:	'Won 6 Oscars. 26 wins & 18 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SX300.jpg',
     metascore:	98,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {
     title:	'Unforgiven',
@@ -2232,7 +2232,7 @@ export default [
     awards:	'Won 4 Oscars. 50 wins & 47 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg',
     metascore:	85,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {
     title:	'Children of Heaven',
@@ -2250,7 +2250,7 @@ export default [
     awards:	'N/A',
     poster:	'https://m.media-amazon.com/images/M/MV5BM2UzZWU2NjUtYTBhZS00MDlhLTkyNTAtYTViMGIyYTFlNGQ3XkEyXkFqcGdeQXVyNzk2Njk1MTk@._V1_SX300.jpg',
     metascore:	70,
-    imdbRating:	8.0,
+    imdbrating:	8.0,
   },
   {	
     title:	'The Great Escape',
@@ -2268,7 +2268,7 @@ export default [
     awards:	'Nominated for 1 Oscar. 3 wins & 11 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg',
     metascore:	86,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {
     title:	'The Wolf of Wall Street',
@@ -2286,7 +2286,7 @@ export default [
     awards:	'Nominated for 5 Oscars. 37 wins & 179 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg',
     metascore:	75,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {
     title:	'Casino',
@@ -2304,7 +2304,7 @@ export default [
     awards:	'Nominated for 1 Oscar. 4 wins & 11 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg',
     metascore:	73,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {
     title:	'Judgment at Nuremberg',
@@ -2322,7 +2322,7 @@ export default [
     awards:	'Won 2 Oscars. 16 wins & 25 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_SX300.jpg',
     metascore:	60,
-    imdbRating: 8.2,
+    imdbrating: 8.2,
   },
   {
     title:	'There Will Be Blood',
@@ -2340,7 +2340,7 @@ export default [
     awards:	'Won 2 Oscars. 116 wins & 137 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_SX300.jpg',
     metascore:	93,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {
     title:	'The Treasure of the Sierra Madre',
@@ -2358,7 +2358,7 @@ export default [
     awards:	'Won 3 Oscars. 16 wins & 8 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg',
     metascore:	98,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {	
     title:	'A Beautiful Mind',
@@ -2376,7 +2376,7 @@ export default [
     awards:	'Won 4 Oscars. 37 wins & 69 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg',
     metascore:	72,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {	
     title:	'Directors Notebook: Pans Labyrinth',
@@ -2394,7 +2394,7 @@ export default [
     awards:	'N/A',
     poster:	'N/A',
     metascore:	70,
-    imdbRating:	8.0,
+    imdbrating:	8.0,
   },
   {
     title:	'Raging Bull',
@@ -2412,7 +2412,7 @@ export default [
     awards:	'Won 2 Oscars. 24 wins & 28 nominations total',
     poster:	'https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX300.jpg',
     metascore:	89,
-    imdbRating:	8.2,
+    imdbrating:	8.2,
   },
   {
     title: 'John Wick',
@@ -2430,7 +2430,7 @@ export default [
     awards: '5 wins & 10 nominations',
     poster: 'https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg',
     metascore: 68,
-    imdbRating: 7.4,    
+    imdbrating: 7.4,    
   },
   {
     title: 'The Big Blue',
@@ -2448,7 +2448,7 @@ export default [
     awards: 'N/A',
     poster: 'https://m.media-amazon.com/images/M/MV5BMzM1NjIyNWItOGUzOC00NzEwLWFjNjEtYjFkNTM5MjFkMjA1XkEyXkFqcGdeQXVyMDM1MzIyMQ@@._V1_SX300.jpg',
     metascore: 70,
-    imdbRating: 6.8,
+    imdbrating: 6.8,
   },
   {
     title: 'Dallas Buyers Club',
@@ -2466,7 +2466,7 @@ export default [
     awards: 'Won 3 Oscars. 84 wins & 86 nominations total',
     poster: 'https://m.media-amazon.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1_SX300.jpg',
     metascore: 79,
-    imdbRating: 8.0,
+    imdbrating: 8.0,
   },
   {
     title: 'Avatar',
@@ -2484,7 +2484,7 @@ export default [
     awards: 'Won 3 Oscars. 89 wins & 130 nominations total',
     poster: 'https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg',
     metascore: 83,
-    imdbRating: 7.8,
+    imdbrating: 7.8,
   },
 
   {
@@ -2503,7 +2503,7 @@ export default [
     awards: '25 wins & 90 nominations',
     poster: 'https://m.media-amazon.com/images/M/MV5BZDhkMjUyYjItYWVkYi00YTM5LWE4MGEtY2FlMjA3OThlYmZhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg',
     metascore: 91,
-    imdbRating: 7.4,
+    imdbrating: 7.4,
   },
   {
     title: 'Suicide Squad',
@@ -2521,7 +2521,7 @@ export default [
     awards: 'Won 1 Oscar. 17 wins & 40 nominations total',
     poster: 'https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SX300.jpg',
     metascore: 40,
-    imdbRating: 5.9,
+    imdbrating: 5.9,
   },
   {
     title: 'The Big Lebowski',
@@ -2539,7 +2539,7 @@ export default [
     awards: '5 wins & 18 nominations',
     poster: 'https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_SX300.jpg',
     metascore: 71,
-    imdbRating: 8.1,
+    imdbrating: 8.1,
   },
   {
     title: 'Creed',
@@ -2557,7 +2557,7 @@ export default [
     awards: 'Nominated for 1 Oscar. 44 wins & 65 nominations total',
     poster: 'https://m.media-amazon.com/images/M/MV5BNmZkYjQzY2QtNjdkNC00YjkzLTk5NjUtY2MyNDNiYTBhN2M2XkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_SX300.jpg',
     metascore: 82,
-    imdbRating: 7.6,
+    imdbrating: 7.6,
   },
   {
     title: 'Rocky',
@@ -2575,7 +2575,7 @@ export default [
     awards: 'Won 3 Oscars. 20 wins & 21 nominations total',
     poster: 'https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_SX300.jpg',
     metascore: 70,
-    imdbRating: 8.1,
+    imdbrating: 8.1,
   },
   {
     title: 'Jaws',
@@ -2593,7 +2593,7 @@ export default [
     awards: 'Won 3 Oscars. 15 wins & 20 nominations total',
     poster: 'https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg',
     metascore: 87,
-    imdbRating: 8.0,
+    imdbrating: 8.0,
   },
   {
     title: 'Fight Club',
@@ -2611,7 +2611,7 @@ export default [
     awards: 'Nominated for 1 Oscar. 11 wins & 38 nominations total',
     poster: 'https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore: 66,
-    imdbRating: 8.8,
+    imdbrating: 8.8,
   },
   {
     title: 'Die Hard',
@@ -2629,7 +2629,7 @@ export default [
     awards: 'Nominated for 4 Oscars. 8 wins & 6 nominations total',
     poster: 'https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore: 72,
-    imdbRating: 8.2,
+    imdbrating: 8.2,
   },
   {
     title: 'Alien',
@@ -2647,7 +2647,7 @@ export default [
     awards: 'Won 1 Oscar. 18 wins & 22 nominations total',
     poster: 'https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg',
     metascore: 89,
-    imdbRating: 8.4,
+    imdbrating: 8.4,
   },
   {
     title: 'Knives Out',
@@ -2665,7 +2665,7 @@ export default [
     awards: 'Nominated for 1 Oscar. 49 wins & 113 nominations total',
     poster: 'https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SX300.jpg',
     metascore: 82,
-    imdbRating: 7.9,
+    imdbrating: 7.9,
   },
   {
     title: 'Batman Begins',
@@ -2683,7 +2683,7 @@ export default [
     awards: 'Nominated for 1 Oscar. 13 wins & 79 nominations total',
     poster: 'https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg',
     metascore: 70,
-    imdbRating: 8.2,
+    imdbrating: 8.2,
   },
   {
     title: 'Batman',
@@ -2701,6 +2701,6 @@ export default [
     awards: 'Won 1 Oscar. 9 wins & 26 nominations total',
     poster: 'https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg',
     metascore: 69,
-    imdbRating: 7.5,
+    imdbrating: 7.5,
   }
 ]
