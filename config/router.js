@@ -2,7 +2,10 @@ import express from 'express'
 import auth from '../controllers/auth.js'
 import allMovies from '../controllers/movies.js'
 import user from '../controllers/users.js'
+<<<<<<< HEAD
+=======
 import users from '../controllers/users.js'
+>>>>>>> development
 // import secureRoute from '../lib/secureRoute.js'
 
 const router = express.Router()

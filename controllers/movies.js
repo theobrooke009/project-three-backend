@@ -11,6 +11,7 @@ async function getAllMovies(req, res, next) {
 }
 
 async function getOneMovie(req, res, next) {
+  console.log(req.params)
   const { movieId } = req.params
   try {
     const movieToFind = await Movie.findById(movieId)
