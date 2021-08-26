@@ -31,6 +31,10 @@ router.route('/marathon')
 router.route('/marathons')
   .get(allMarathons.index)
 
+router.route('/marathons/:marathonId')
+  .delete(user.delete)
+
+
 router.route('/marathons')
   .post(user.create)
 

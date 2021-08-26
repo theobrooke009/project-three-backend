@@ -35,9 +35,23 @@ async function marathonCreate(req, res, next) {
   }
 }
 
+async function marathonDelete(req, res, next) {
+  const { marathonId } = req.params
+  try {
+    const marathonToDelete = await Marathon.findById(marathonId)
+    if (!marathonToDelete) throw new Error({ message: 'not found' })
+    await marathonToDelete.remove()
+    return res.sendStatus(204)
+  } catch (err) {
+    next(err)
+  }
+}
+
+
 
 export default {
   show: getOneUser,
   index: getAllUsers,
   create: marathonCreate,
+  delete: marathonDelete,
 }
