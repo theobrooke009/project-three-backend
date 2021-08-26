@@ -20,11 +20,15 @@ const movieSchema = new mongoose.Schema({
   writer: { type: String, required: true },
   plot: { type: String, maxlength: 500, trim: true },
   poster: { type: String, required: true },
+  language: { type: String, required: false },
+  country: { type: String, required: false },
+  awards: { type: String, required: false },
+  metascore: { type: Number, required: false },
   imdbrating: { type: Number, required: false },
-  tagline: { type: String, maxlength: 200 },
   comments: [commentSchema],
 })
 
 const Movie = mongoose.model('Movie', movieSchema)
 
 export default Movie
+
