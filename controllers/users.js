@@ -1,5 +1,6 @@
 import { NotFound } from '../lib/errors.js'
 import User from '../models/users.js'
+import Marathon from '../models/marathonEntry.js'
 
 async function getOneUser(req,res, next) {
   const { userId } = req.params
@@ -21,8 +22,22 @@ async function getAllUsers(_req, res) {
   }
 }
 
+//* CREATE MARATHON
+
+async function marathonCreate(req, res, next) {
+  const { currentUser } = req 
+  try {
+    const createdMarathon = await 
+    Marathon.create({ ...req.body, addedBy: currentUser })
+    return res.status(201).json(createdMarathon)
+  } catch (err) {
+    next(err)
+  }
+}
+
 
 export default {
   show: getOneUser,
   index: getAllUsers,
+  create: marathonCreate,
 }

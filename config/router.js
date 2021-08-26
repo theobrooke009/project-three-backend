@@ -2,7 +2,7 @@ import express from 'express'
 import auth from '../controllers/auth.js'
 import allMovies from '../controllers/movies.js'
 import user from '../controllers/users.js'
-import users from '../controllers/users.js'
+import allMarathons from '../controllers/marathons.js'
 // import secureRoute from '../lib/secureRoute.js'
 
 const router = express.Router()
@@ -28,7 +28,13 @@ router.route('/user/:userId')
 router.route('/marathon')
   .get(allMovies.index)
 
+router.route('/marathons')
+  .get(allMarathons.index)
+
+router.route('/marathons')
+  .post(user.create)
+
 router.route('/users')
-  .get(users.index)
+  .get(user.index)
 
 export default router
