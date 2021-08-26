@@ -9,7 +9,8 @@ async function getAllMarathons(req, res, next) {
   }
 }
 
+
+
 export default {
   index: getAllMarathons,
 }
-

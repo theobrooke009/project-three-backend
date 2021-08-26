@@ -11,7 +11,7 @@ const marathonSchema = new mongoose.Schema({
   titleeight: { type: String, required: false },
   titlenine: { type: String, required: false },
   titleten: { type: String, required: false },
-  name: { type: String, required: true },
+  name: { type: String, required: false },
   
 })
 
