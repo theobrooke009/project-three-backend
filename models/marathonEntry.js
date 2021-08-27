@@ -1,17 +1,17 @@
 import mongoose from 'mongoose'
 
 const marathonSchema = new mongoose.Schema({
-  titleone: { type: String, required: true },
-  titletwo: { type: String, required: false },
-  titlethree: { type: String, required: false },
-  titlefour: { type: String, required: false },
-  titlefive: { type: String, required: false },
-  titlesix: { type: String, required: false },
-  titleseven: { type: String, required: false },
-  titleeight: { type: String, required: false },
-  titlenine: { type: String, required: false },
-  titleten: { type: String, required: false },
-  name: { type: String, required: false },
+  0: { type: String, required: true },
+  1: { type: String, required: false },
+  2: { type: String, required: false },
+  3: { type: String, required: false },
+  4: { type: String, required: false },
+  5: { type: String, required: false },
+  6: { type: String, required: false },
+  7: { type: String, required: false },
+  8: { type: String, required: false },
+  9: { type: String, required: false },
+  name: { type: String, required: true },
   
 })
 
