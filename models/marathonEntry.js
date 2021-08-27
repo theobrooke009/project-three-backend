@@ -1,7 +1,7 @@
 import mongoose from 'mongoose'
 
 const marathonSchema = new mongoose.Schema({
-  0: { type: String, required: true },
+  0: { type: String, required: false },
   1: { type: String, required: false },
   2: { type: String, required: false },
   3: { type: String, required: false },
